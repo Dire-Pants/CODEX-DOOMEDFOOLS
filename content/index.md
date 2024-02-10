@@ -3,8 +3,7 @@ title: Codex of Knowledge
 tags: 
 date:
 ---
-World & Lore forged by DND5e ✍ for the **DOOMED FOOLS** ⚔️ tabletop party 🎲
-	GM/DM: Nick S.
+World & Lore presented by GM **Nick S.** ✍ for the **DOOMED FOOLS** ⚔️ tabletop party 🎲
 
 - [[Introduction]]
 ---
