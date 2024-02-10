@@ -1,11 +1,11 @@
 ---
 tags:
   - NPC
-date: 2024-02-10
+date: 2024-01-18
 aliases: 
-draft: yes
+draft:
 ---
-![](../_images/Portraits/NPC/Halia%20Thornton.jpeg)
+![[Tor'azil Faraeven_Disguised.jpeg]]
 # Character Type:
 - CLASS / RACE
 	- [Class Details, Features, and Spells](https://www.dndbeyond.com/classes/)

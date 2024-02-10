@@ -1,9 +1,9 @@
 ---
 tags:
   - NPC
-date: 2024-02-10
+date: 2024-01-18
 aliases: 
-draft: no
+draft:
 ---
 ![](../_images/Portraits/NPC/Butler%20Gregory.jpeg)
 # Character Type:

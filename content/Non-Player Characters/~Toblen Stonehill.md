@@ -1,11 +1,12 @@
 ---
 tags:
   - NPC
-date: 2024-02-10
+  - Pending
+date: 
 aliases: 
-draft: yes
+draft:
 ---
-![](../_images/Portraits/NPC/Halia%20Thornton.jpeg)
+
 # Character Type:
 - CLASS / RACE
 	- [Class Details, Features, and Spells](https://www.dndbeyond.com/classes/)
