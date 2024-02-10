@@ -3,7 +3,7 @@ tags:
   - NPC
 date: 
 aliases: 
-draft:
+draft: yes
 ---
 
 # Character Type:

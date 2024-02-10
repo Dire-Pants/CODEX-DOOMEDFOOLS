@@ -3,7 +3,7 @@ tags:
   - Player
 date: 
 aliases: 
-draft:
+draft: yes
 ---
 **PICTURE HERE**
 ## Character Type:
