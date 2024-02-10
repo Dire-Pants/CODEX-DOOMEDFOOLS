@@ -3,21 +3,20 @@ title: Codex of Knowledge
 tags: 
 date:
 ---
-World & Lore forged by DM **NAME** ✍ for the **NAME** ⚔️ tabletop party 🎲
+World & Lore forged by DND5e ✍ for the **DOOMED FOOLS** ⚔️ tabletop party 🎲
+	GM/DM: Nick S.
 
 - [[Introduction]]
-
-
 ---
 - [Upcoming Session Prep](/~Upcoming-Session-Prep/)
-- [Adventure Intros](/Adventure-Intros/)
-- [Adventure Summaries](/Adventure-Summaries/)
-- [Lore & History](/Lore-and-History/)
-- [Major Locations](/Major-Locations/)
-- [Miscellaneous Locations (WIP)](/Misc-Locations)
-- [Discovered Creatures(WIP)](/Discovered-Creatures/)
-- [Non-Player Characters](/Non-Player-Characters/)
-- [Player Characters](/Player-Characters/)
+- [Adventure Intros](/Adventure-Intros/) <font color="#ff0000">**MISSING INFO** </font>
+- [Adventure Summaries](/Adventure-Summaries/) <font color="#f79646">**REFINING INFO**</font>
+- [Lore & History](/Lore-and-History/) <font color="#f79646">**GATHERING INFO**</font>
+- [Major Locations](/Major-Locations/) <font color="#f79646">**GATHERING INFO** </font>
+- [Miscellaneous Locations (WIP)](/Misc-Locations) <font color="#ff0000">**EMPTY**</font>
+- [Discovered Creatures(WIP)](/Discovered-Creatures/) <font color="#f79646">**NEEDS SESSION 2 UPDATES** </font>
+- [Non-Player Characters](/Non-Player-Characters/) <font color="#f79646">**GATHERING INFO**</font>
+- [Player Characters](/Player-Characters/) <font color="#f79646">**GATHERING INFO** </font>
 ---
 Any knowledge that can be referenced further will enrich future sessions. Below are some works in progress:
 
