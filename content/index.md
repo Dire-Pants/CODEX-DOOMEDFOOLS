@@ -5,9 +5,9 @@ date:
 ---
 World & Lore forged by DM **NAME** ✍ for the **NAME** ⚔️ tabletop party 🎲
 
-- [[Introduction to $WORLD]]
+- [[Introduction]]
 
-![[PartialWorldMap.jpg]]
+
 ---
 - [Upcoming Session Prep](/~Upcoming-Session-Prep/)
 - [Adventure Intros](/Adventure-Intros/)
@@ -21,8 +21,7 @@ World & Lore forged by DM **NAME** ✍ for the **NAME** ⚔️ tabletop party �
 ---
 Any knowledge that can be referenced further will enrich future sessions. Below are some works in progress:
 
-- [~Pending Topics & Snippets](/Pending-Info/)
-- [[~Pending Site Features]]
+- [~Pending Topics & Snippets](/~Pending-Info/)
 
 *(See a typo? Let us know!)*
 

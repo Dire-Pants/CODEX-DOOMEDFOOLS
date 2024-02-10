@@ -1,8 +1,9 @@
 ---
-date: 
 tags:
   - summary
-draft: yes
+date: 
+aliases: 
+draft:
 ---
 # Events:
 
