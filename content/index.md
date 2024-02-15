@@ -16,8 +16,6 @@ World & Lore presented by GM **Nick S.** ✍ for the **DOOMED FOOLS** ⚔️ tab
 ---
 Any knowledge that can be referenced further will enrich future sessions. Below are some works in progress:
 
-- [~Pending Topics & Snippets](/~Pending-Info/)
-
 *(See a typo? Let us know!)*
 
 > [!TIP] Navigation Tips:
