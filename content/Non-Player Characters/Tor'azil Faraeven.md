@@ -2,7 +2,8 @@
 tags:
   - NPC
 date: 2024-01-18
-aliases: 
+aliases:
+  - Tor
 draft:
 ---
 

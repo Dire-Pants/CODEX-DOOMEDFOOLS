@@ -3,9 +3,8 @@ tags:
   - Creature
 aliases: 
 date: 
-draft: yes
+draft:
 ---
-
 # Official Info/Stats/Lore:
 # Campaign First Discovered:
 * Session #

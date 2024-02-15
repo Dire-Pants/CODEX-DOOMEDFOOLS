@@ -1,7 +1,8 @@
 ---
 tags:
   - Prep
-date: 
+date: 2024-02-02
+title: 
 aliases: 
 draft:
 ---
