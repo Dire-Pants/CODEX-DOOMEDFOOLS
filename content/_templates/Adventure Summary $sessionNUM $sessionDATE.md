@@ -3,7 +3,7 @@ tags:
   - summary
 date: 
 aliases: 
-draft:
+draft: yes
 ---
 # Events:
 

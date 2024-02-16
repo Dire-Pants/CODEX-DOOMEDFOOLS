@@ -3,7 +3,7 @@ tags:
   - Prep
 date: 
 aliases: 
-draft:
+draft: yes
 ---
 # Tasks/Homework
 - [ ] Item1

@@ -9,9 +9,8 @@ draft:
 ---
 ![[../_images/Portraits/NPC/Toblen Stonehill.jpg]]
 ## Character Type:
-- CLASS / RACE
-- [Class Details, Features, and Spells](https://www.dndbeyond.com/classes/)
-- [Race Details](https://www.dndbeyond.com/races/)
+- Human Barkeep
+- [Race Details](https://www.dndbeyond.com/human/)
 ## First Introduced:
  * [[../Adventure Summaries/Session 1 Summary (1-18-24)|Session 1 Summary (1-18-24)]]
 ## Central Character Sheet:

@@ -3,7 +3,7 @@ tags:
   - Creature
 aliases: 
 date: 
-draft:
+draft: yes
 ---
 # Official Info/Stats/Lore:
 # Campaign First Discovered:

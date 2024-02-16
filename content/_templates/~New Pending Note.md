@@ -4,5 +4,5 @@ tags:
   - Pending
 title: 
 aliases: 
-draft:
+draft: yes
 ---
