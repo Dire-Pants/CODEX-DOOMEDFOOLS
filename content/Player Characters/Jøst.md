@@ -6,11 +6,11 @@ title:
 aliases: 
 draft:
 ---
-**PICTURE HERE**
+![[../_images/Portraits/Player/Jost.jpg]]
 ## Character Type:
-- CLASS / RACE
-- [Class Details, Features, and Spells](https://www.dndbeyond.com/classes/)
-- [Race Details](https://www.dndbeyond.com/races/)
+- Wood Elf Ranger
+	- [Race Details](https://www.dndbeyond.com/races/)
+	- [Class Details, Features, and Spells](https://www.dndbeyond.com/classes/)
 ## First Introduced:
  * [[../Adventure Summaries/Session 1 Summary (1-18-24)|Session 1 Summary (1-18-24)]]
 ## Central Character Sheet:

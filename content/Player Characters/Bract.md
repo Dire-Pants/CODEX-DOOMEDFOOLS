@@ -8,9 +8,9 @@ draft:
 ---
 **PICTURE HERE**
 ## Character Type:
-- CLASS / RACE
-- [Class Details, Features, and Spells](https://www.dndbeyond.com/classes/)
-- [Race Details](https://www.dndbeyond.com/races/)
+- Monk / Half-Elf
+- [Class Details, Features, and Spells](https://www.dndbeyond.com/classes/monk)
+- [Race Details](https://www.dndbeyond.com/races/half-elf)
 ## First Introduced:
  * [[../Adventure Summaries/Session 1 Summary (1-18-24)|Session 1 Summary (1-18-24)]]
 ## Central Character Sheet:

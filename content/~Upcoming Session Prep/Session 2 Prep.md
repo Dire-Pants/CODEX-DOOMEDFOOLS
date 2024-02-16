@@ -1,8 +1,10 @@
 ---
-date: 
+date: 2024-02-01
 tags:
-  - Pending
+  - Prep
 title: 
 aliases: 
 draft:
 ---
+# Message from the DM:
+ * Make your level 2 preparations!

@@ -3,7 +3,7 @@ tags:
   - summary
 date: 2024-01-18
 aliases: 
-draft: yes
+draft: 
 title:
 ---
 # Event Summary

@@ -14,15 +14,11 @@ World & Lore presented by GM **Nick S.** ✍ for the **DOOMED FOOLS** ⚔️ tab
 - [Non-Player Characters](/Non-Player-Characters/) 
 - [Player Characters](/Player-Characters/) <font color="#f79646">**GATHERING INFO** </font>
 ---
-Any knowledge that can be referenced further will enrich future sessions. Below are some works in progress:
-
-*(See a typo? Let us know!)*
+I hope this centralized knowledge will enrich future sessions. *(See a typo? Let me know!)*
 
 > [!TIP] Navigation Tips:
 > - A light and dark theme are available on the top-right of the site 🔆🌙
 > - The button top-right of the **Graph View** is a global view of all related topics 🕸️
 > - Webbed nodes of information can be click and dragged in this space 👀✨
 > - It is also tap-hold & pinch-zoom friendly 🤏
-
-
 <sub>Site maintained by Edison R. </sub>
