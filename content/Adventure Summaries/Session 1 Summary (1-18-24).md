@@ -6,6 +6,8 @@ aliases:
 draft: 
 title:
 ---
+# Session Length:
+ * Approximately 4.5 hours
 # Event Summary
 The adventurers arrived in [[Phandalin]] late in the evening, and were quickly dubbed “the Doomed Fools” by [[Kro Chadger]], who overheard some of the local townsfolk muttering the phrase under their breath while the party passed by.
 

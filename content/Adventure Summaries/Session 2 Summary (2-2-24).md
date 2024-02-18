@@ -7,6 +7,8 @@ aliases:
 draft:
 ---
 ![](../_attachments/Pasted%20image%2020240210133610.png)
+# Session Length
+ * Approximately 5 hours
 # Event Summary
 The Doomed Fools took a moment to collect themselves after their victory over the ochre jelly, [[Kro Chadger]] returning to his normal, affable self after having entered a seemingly magical trance during the battle. He appeared to be completely unaware of the severity of his wounds. 
 
