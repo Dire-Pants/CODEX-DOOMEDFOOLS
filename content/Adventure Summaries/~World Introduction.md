@@ -1,7 +1,6 @@
 ---
-date: 
-tags:
-  - Intro
+date: 2024-01-18
+tags: []
 title: 
 aliases: 
 draft:

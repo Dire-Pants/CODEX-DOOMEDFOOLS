@@ -4,7 +4,7 @@ tags:
   - summary
 title: 
 aliases: 
-draft: yes
+draft:
 ---
 # Session Length
  * Approx 4 hours (6:30PM-1030PM)
