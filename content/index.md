@@ -9,7 +9,7 @@ World & Lore presented by GM **Nick S.** ✍ for the **DOOMED FOOLS** ⚔️ tab
 - [Adventure Summaries](/Adventure-Summaries/) 
 - [Lore & History](/Lore-and-History/) <font color="#f79646">**GATHERING INFO**</font>
 - [Major Locations](/Major-Locations/) <font color="#f79646">**GATHERING INFO** </font>
-- [Miscellaneous Locations](/Misc-Locations) <font color="#ff0000">**EMPTY**</font>
+- [Miscellaneous Locations](/Misc-Locations) <font color="#f79646">**GATHERING INFO** </font>
 - [Discovered Creatures](/Discovered-Creatures/) <font color="#f79646">**NEEDS SESSION 2 UPDATING** </font>
 - [Non-Player Characters](/Non-Player-Characters/) 
 - [Player Characters](/Player-Characters/) <font color="#f79646">**GATHERING INFO** </font>
