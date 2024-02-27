@@ -6,7 +6,7 @@ title:
 aliases: 
 draft:
 ---
-![](../_attachments/Pasted%20image%2020240210133610.png)
+<center>![](../_attachments/Pasted%20image%2020240210133610.png)</center>
 # Session Length
  * Approximately 5 hours
 
