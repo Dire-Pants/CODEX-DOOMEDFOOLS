@@ -6,7 +6,6 @@ title:
 aliases: 
 draft:
 ---
-<center>![](../_attachments/Pasted%20image%2020240210133610.png)</center>
 # Session Length
  * Approximately 5 hours
 
@@ -103,3 +102,5 @@ Jøst’s icy demeanor thawed somewhat as the party continued to work together, 
 [[Player Characters/Bract|Bract]] was the most affected by Vane Crios’s revelations, withdrawing into himself for some time before attempting to smooth things over by making dinner at camp. He expressed interest in poisoning the dragon rather than confronting it head-on, saying he may be able to concoct a poison called Assassin’s Blood to slay the beast.
 
 Kro continued to meet each person and obstacle with relentless cheer, insisting on seeing the best in everything. He was completely undeterred by the rudeness of some of the folk the party encountered, as well as the quickest to accept any seeming flaws in his companions.
+
+![](../_attachments/Pasted%20image%2020240210133610.png)
