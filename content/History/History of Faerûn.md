@@ -4,7 +4,7 @@ tags:
   - History
 title: 
 aliases: 
-draft: " no"
+draft:
 ---
 # The Days of Thunder— 35,000 BDR (Age of the Creator Races)
 
