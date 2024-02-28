@@ -6,7 +6,7 @@ title:
 aliases: 
 draft:
 ---
-**PICTURE HERE**
+![](../_images/Portraits/Player/Bract.jpg)
 ## Character Type:
 - Monk / Half-Elf
 - [Class Details, Features, and Spells](https://www.dndbeyond.com/classes/monk)
