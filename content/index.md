@@ -6,12 +6,12 @@ World & Lore presented by GM **Nick S.** ✍ for the **DOOMED FOOLS** ⚔️ tab
 ---
 - [Upcoming Session Prep](/~Upcoming-Session-Prep/)
 - [Adventure Summaries](/Adventure-Summaries/) 
-- [Crafted History](/History/) <font color="#f79646">**GATHERING INFO**</font>
+- [Crafted History](/History/) 
 - [Major Locations](/Major-Locations/) <font color="#f79646">**GATHERING INFO** </font>
 - [Miscellaneous Locations](/Misc-Locations) <font color="#f79646">**GATHERING INFO** </font>
-- [Discovered Creatures](/Discovered-Creatures/) <font color="#f79646">**NEEDS SESSION 2 UPDATING** </font>
+- [Discovered Creatures](/Discovered-Creatures/) <font color="#f79646">**NEEDS SESSION 2 & 3 UPDATING** </font>
 - [Non-Player Characters](/Non-Player-Characters/) 
-- [Player Characters](/Player-Characters/) <font color="#f79646">**GATHERING INFO** </font>
+- [Player Characters](/Player-Characters/)
 ---
 I hope this centralized knowledge will enrich future sessions. *(See a typo? Let me know!)*
 
